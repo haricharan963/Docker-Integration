@@ -5,5 +5,6 @@ public class AppTest {
     
   public static void main(String[] args) {
 	System.out.println("Integrating jenkins and docker");
+	System.out.println("Running successfully");
 }
 }
